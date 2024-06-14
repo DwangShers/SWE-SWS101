@@ -138,4 +138,3 @@ Here I will be inserting a alert message through a simple html.
 
 Uploading the file.
 ![alt text](<../evidences/exploitation/Xss-Web Application Penetration testing/2. Uploading-html-file.png>)
-
